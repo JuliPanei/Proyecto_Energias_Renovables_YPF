@@ -5,3 +5,12 @@ El conjunto de datos utilizado para esta entrega corresponde a https://www.kaggl
 
 Objetivo del trabajo:
 "Proyectar el consumo de energias renovables para obtener un uso eficiente y asi poder aumentar su productividad reduciendo los costos energeticos e impactos ambientales."
+
+Participantes Grupo 3:
+Virginia Escalante
+Rocío Ordinola
+Panei Julia
+Noelia Requena
+Natalia Vitayo
+
+Diccionario de conceptos: 
