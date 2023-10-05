@@ -12,4 +12,19 @@ Panei Julia
 Noelia Requena
 Natalia Vitayo
 
-Diccionario de conceptos: 
+## Diccionario de conceptos: 
+
+| Variable | Definición |
+| --------- | --------- |
+|ID | Número identificatorio de cada registro ingresado |
+| estado_reclamo | Separa los estados en Opinion o Reclamo |
+| ID_video | Número que identifica cada video |
+| duracion_video_seg | Tiempo de duración expresado en segundos |
+| transcripcion_video | Transcripcion de lo que encuentra en el video |
+| estado_verificado | se encuentra verificado o no verificado |
+| estado_bloqueo_autor | estado del autor del video: bloqueado, activo o bajo revisión |
+| suma_vistas_video | Número total de vistas |
+| suma_likes_video | Número total de likes |
+| suma_share_video | Número total de shares (veces que se comparte el video) |
+| suma_descargas_video | Número total de descargas |
+| suma_comentarios_video | Número total de comentarios |
