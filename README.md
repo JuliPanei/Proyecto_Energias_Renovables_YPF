@@ -21,8 +21,8 @@ Natalia Vitayo
 | ID_video | Número que identifica cada video |
 | duracion_video_seg | Tiempo de duración expresado en segundos |
 | transcripcion_video | Transcripcion de lo que encuentra en el video |
-| estado_verificado | se encuentra verificado o no verificado |
-| estado_bloqueo_autor | estado del autor del video: bloqueado, activo o bajo revisión |
+| estado_verificado | Se encuentra verificado o no verificado |
+| estado_bloqueo_autor | Estado del autor del video: bloqueado, activo o bajo revisión |
 | suma_vistas_video | Número total de vistas |
 | suma_likes_video | Número total de likes |
 | suma_share_video | Número total de shares (veces que se comparte el video) |
