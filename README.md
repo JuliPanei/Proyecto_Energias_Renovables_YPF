@@ -2,15 +2,16 @@
 Presentación proyecto para Data Science Ingenias Fundación YPF
 ## Objetivo del trabajo: 
 ### "Desarrollar un modelo predictivo que pueda determinar si un video ofrece una opinión o contiene un reclamo"
-Los usuarios de TikTok tienen la capacidad de presentar informes que identifican videos y comentarios que contienen reclamos de usuarios. Estos informes identifican contenido que necesita ser revisado por moderadores. El proceso genera una gran cantidad de informes de usuarios que son desafiantes de considerar de manera oportuna.
+
+Los usuarios de TikTok pueden informar contenido que consideran inapropiado. Estos informes se envían a los moderadores para que los revisen. La revisión manual de los informes es un proceso desafiante que puede llevar mucho tiempo. La automatización de este proceso puede ayudar a acelerar la revisión y garantizar que se tomen medidas de manera oportuna.
+Un modelo de aprendizaje automático puede ayudar a diferenciar entre opiniones y reclamos. Esto puede ayudar a los moderadores a centrarse en los informes más graves y tomar medidas de manera oportuna.
 El conjunto de datos utilizado para esta entrega corresponde a la plataforma Kaggle. 
 
-Participantes Grupo 3:
-Virginia Escalante
-Rocío Ordinola
+## Participantes Grupo 3:
+Escalante Virginia
+Ordinola Rocío
 Panei Julia
-Noelia Requena
-Natalia Vitayo
+
 
 ## Diccionario de conceptos: 
 
